@@ -1,3 +1,5 @@
+Download here: https://github.com/ShatteredHorizon/weedhack-login-mod/releases/tag/r8
+
 WeedHack Session Login
 Overview
 
