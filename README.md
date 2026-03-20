@@ -18,9 +18,9 @@ Requirements
 
 Minecraft version: 1.X.X (Replace with the correct Minecraft version)
 
-Forge: [Forge Version]
+Fabric:
 
-Java 8 or later
+Java 21 or later
 
 Steps
 
@@ -32,4 +32,4 @@ Install Minecraft Forge if you haven't already. You can get it from here
 
 Place the downloaded .jar file in the mods folder inside your Minecraft directory.
 
-Launch Minecraft using the Forge profile.
+Launch Minecraft using the Fabric profile.
